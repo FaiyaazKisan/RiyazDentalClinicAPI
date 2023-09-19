@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2cbe58c0.css",
+    "main.js": "/static/js/main.429bee09.js",
+    "static/media/RiyazDp.png": "/static/media/RiyazDp.2e8a04ae9810e131d036.png",
+    "static/media/9_39.jpg": "/static/media/9_39.fc28b28f8f74a7ed0d2f.jpg",
+    "static/media/4WebinarCertificate.jpg": "/static/media/4WebinarCertificate.454cf78e20e34641c5a1.jpg",
+    "static/media/2RiyazkisanCertificateAZLingual.jpg": "/static/media/2RiyazkisanCertificateAZLingual.0af11a589dadec8c5a32.jpg",
+    "static/media/1CertificateRiyazkisanDrJanardhanamsWebinarbyROSG.jpg": "/static/media/1CertificateRiyazkisanDrJanardhanamsWebinarbyROSG.125868874b3b1c14226d.jpg",
+    "static/media/Banner1.jpg": "/static/media/Banner1.a74d3eb081aa2c5b670f.jpg",
+    "static/media/3WOHDCertificate417DrRiyazkisan.jpg": "/static/media/3WOHDCertificate417DrRiyazkisan.c240c9b26dc683b72b94.jpg",
+    "static/media/5Riyazhuseinkisan.jpg": "/static/media/5Riyazhuseinkisan.693ebce7750e4f4c1344.jpg",
+    "static/media/10CertificateforDrRiyazkisan.jpg": "/static/media/10CertificateforDrRiyazkisan.d3fae245acd7bb1e71ff.jpg",
+    "static/media/7_29025RiyazhuseinKisan1024_1.jpg": "/static/media/7_29025RiyazhuseinKisan1024_1.92dcc0a053a04cf00fa5.jpg",
+    "static/media/8RKCertificate.jpg": "/static/media/8RKCertificate.dca8df1a6c575afed9fd.jpg",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "static/media/6certificateClearaligner.jpg": "/static/media/6certificateClearaligner.cc659e3668c32282536c.jpg",
+    "static/media/CeramicBraces.jpg": "/static/media/CeramicBraces.f02d911d782cd0232e5e.jpg",
+    "static/media/MetalSelfLigatingBraces.jpg": "/static/media/MetalSelfLigatingBraces.2458175a39f439d66ab2.jpg",
+    "static/media/ClearAligners.jpg": "/static/media/ClearAligners.e834050690ebf7346ee0.jpg",
+    "static/media/MetalBraces.jpg": "/static/media/MetalBraces.8ab89668ee52719f034d.jpg",
+    "static/media/BracesForKids.jpg": "/static/media/BracesForKids.f8102a9fc44c7216bddd.jpg",
+    "static/media/NotFound.png": "/static/media/NotFound.a4cfa4c5ac0957f48953.png",
+    "static/media/WhatsappLogo.png": "/static/media/WhatsappLogo.0547f3e18fc38aaad4f7.png",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/CeramicSelfLigatingBraces.jpeg": "/static/media/CeramicSelfLigatingBraces.827bb748771cd4b809b6.jpeg",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/InstagramLogo.svg": "/static/media/InstagramLogo.0b3e8a0c68c61f6f9de668820032ea7d.svg",
+    "static/media/ShowMore.svg": "/static/media/ShowMore.1d87ddd682adb72932808bb2edcc0fd0.svg",
+    "static/media/LinkedInLogo.svg": "/static/media/LinkedInLogo.171001b536ab25e981a58e1ea76991dc.svg",
+    "static/media/FacebookLogo.svg": "/static/media/FacebookLogo.e51fbc69217473df4fbbd21e3968b17b.svg",
+    "index.html": "/index.html",
+    "main.2cbe58c0.css.map": "/static/css/main.2cbe58c0.css.map",
+    "main.429bee09.js.map": "/static/js/main.429bee09.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cbe58c0.css",
+    "static/js/main.429bee09.js"
+  ]
+}
